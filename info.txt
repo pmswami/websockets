@@ -1,2 +1,3 @@
 ws => websocket package
 uuid => uuid package
+perfect cursors => plot transition of two cursors
